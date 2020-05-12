@@ -20,8 +20,8 @@ sections:
   label: Theme settings
 upload_dir: https://res.cloudinary.com/cauley/image/upload
 public_path: https://res.cloudinary.com/cauley/image/upload/c_scale,w_auto:100,dpr_auto,f_auto
-front_matter_path: ''
-use_front_matter_path: 
+front_matter_path: https://res.cloudinary.com/cauley/image/upload
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
